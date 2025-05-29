@@ -1,5 +1,11 @@
 # @assistant-ui/react
 
+## 0.10.19
+
+### Patch Changes
+
+- d0867eb: fix(message): add missing condition in `MessageIf`
+
 ## 0.10.18
 
 ### Patch Changes
